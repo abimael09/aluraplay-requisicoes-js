@@ -1,5 +1,5 @@
-<h1>Projeto</h1>
-<h2 align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</h2>
+<h1>AluraPlay</h1>
+<h2>Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</h2>
 
 ## Tecnologias utilizadas durante o curso
 * Javascript
